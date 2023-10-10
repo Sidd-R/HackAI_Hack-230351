@@ -9,7 +9,7 @@ To run the demo, you need API keys from:
 * exchangeratesapi.io
 
 
-##### OpenAI API Key
+##### Exchangerates API Key
 * Visit exchangeratesapi.io .
 * Sign up or log in.
 * Obtain your API key.
